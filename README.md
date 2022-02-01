@@ -43,7 +43,7 @@
 
 ---
 
-## My GitHub Stats 📈
+## 📈 My GitHub Stats
 
 ![Eliahu's github stats](https://github-readme-stats.vercel.app/api?username=eligarlo&show_icons=true&theme=tokyonight)
 
