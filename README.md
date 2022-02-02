@@ -25,21 +25,21 @@
 
 ## ⚡ Technologies
 
-### Language :
+### Languages :
 ![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
 ![HTML5 Badge](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34F26)
 ![CSS3 Badge](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&labelColor=black&logo=css3&logoColor=1572B6)
 ![CSS3 C#](https://img.shields.io/badge/-C%23-189f20?style=for-the-badge&labelColor=black&logo=c-sharp&logoColor=189f20)
 
-### Libraries & Framework :
+### Libraries & Frameworks :
 
 ![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
-![Next.js](https://img.shields.io/badge/-Nextjs-black?style=flat-square&logo=nextdotjs)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
-<a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white"></a>
-![.NET](https://img.shields.io/badge/-.NET-5027d5?style=flat-square&logo=dotnet)
+![Nextjs Badge](https://img.shields.io/badge/-Nextjs-white?style=for-the-badge&labelColor=black&logo=nextdotjs&logoColor=white)
+![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3e863d?style=for-the-badge&labelColor=black&logo=Node.js&logoColor=3e863d)
+![Express Badge](https://img.shields.io/badge/-Express-white?style=for-the-badge&labelColor=black&logo=express&logoColor=white)
+![MongoDB Badge](https://img.shields.io/badge/-MongoDB-%234ea94b.svg?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=3e863d)
+![.NET Badge](https://img.shields.io/badge/-.NET-5027d5?style=for-the-badge&labelColor=black&logo=dotnet&logoColor=5027d5)
 
 ---
 
